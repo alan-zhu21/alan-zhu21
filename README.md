@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alan-zhu21
-- 👀 I’m interested in research tools, silly projects, and art/music
+- 👀 I’m interested in research tools, fun projects, and art/music
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me - by email
