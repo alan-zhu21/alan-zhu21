@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alan-zhu21
-- 👀 I’m interested in research tools, fun projects, and art/music
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on anything interesting
+- 👀 I’m interested in data/research tools, fun and unique projects, and ai-generated art/music
+- 🌱 I’m currently learning or have learned Javascript, Node, Express, Jest, Python, Flask, and others
+- 💞️ I’m looking to collaborate on creating amazing front end experiences or powerful backend tools
 - 📫 How to reach me - by email
 
 <!---
